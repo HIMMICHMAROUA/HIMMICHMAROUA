@@ -4,7 +4,7 @@
 </div>
 <!-- LIENS RESEAUX SOCIAUX -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/himmich-maroua">
+  <a href="https://www.linkedin.com/in/maroua-himmich">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:maroua.himmich@student.junia.com">
@@ -12,7 +12,6 @@
   </a>
 </div>
 <br/>
-
 
 
 
