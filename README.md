@@ -4,9 +4,6 @@
 
 ### 🤖 AI Engineer Student 
 
-*"Give me a problem, constraints, and context — code is the easy part."*
----
-
 ## 👩‍💻 About Me
 
 ```python
@@ -15,11 +12,10 @@ maroua = {
     "focus"      : ["Reinforcement Learning", "Computer Vision", "Game AI"],
     "languages"  : ["Arabic 🇲🇦", "French 🇫🇷", "English 🇬🇧"],
     "hobbies"    : ["Swimming 🏊", "Cinema 🎬", "Travel ✈️"],
-    "currently"  : "Building AI-powered games with Unity 🎮"
 }
 ```
 
----
+
 
 ## 🎮 Game Projects
 
