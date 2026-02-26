@@ -1,7 +1,8 @@
 <!-- HEADER DYNAMIQUE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35CE8D&width=435&lines=Hi+There!+I'm+Maroua+Himmich+👋;AI+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35CE8D&width=435&lines=Hi+There!+I'm+Maroua+Himmich+👋;AI+Engineering+Student+🤖;Unity+%26+Reinforcement+Learning;Open+to+Internship+(May+2026)" alt="Typing SVG" />
 </div>
+
 <!-- LIENS RESEAUX SOCIAUX -->
 <div align="center">
   <a href="https://www.linkedin.com/in/maroua-himmich">
@@ -12,7 +13,6 @@
   </a>
 </div>
 <br/>
-
 
 
 <div align="center">
