@@ -1,4 +1,6 @@
-<h1 align="center">Hi, je suis Maroua Himmich 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+There+%F0%9F%91%8B;Je+suis+Maroua+Himmich;Etudiante+en+IA+%F0%9F%A4%96" alt="Typing SVG"/>
+</p>
 
 <h3 align="center">🎓 Étudiante Ingénieure en Intelligence Artificielle | Junia ISEN Lille</h3>
 
@@ -10,15 +12,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🙋‍♀️ À propos de moi
-
-- 🎓 Étudiante en **2ème année de cycle ingénieur en IA** à Junia ISEN Lille (2023–2027)
-- 💡 Passionnée par l'**analyse de données**, le **Machine Learning** et la **Computer Vision**
-- 🌍 Basée à **Lille, France**
-- 🗣️ Langues : Arabe 🇲🇦 | Français 🇫🇷 | Anglais 🇬🇧 (B1 TOEIC)
 
 ---
 
@@ -46,17 +39,6 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HIMMICHMAROUA&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMMICHMAROUA&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
 
 ---
 
