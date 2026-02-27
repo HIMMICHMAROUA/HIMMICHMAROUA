@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=808080&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B+I%27m+Maroua+Himmich" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=808080&center=true&vCenter=true&width=700&lines=Hi+There!+I%27m+Maroua+Himmich" alt="Typing SVG"/>
 </p>
 
-<h3 align="center">🎓 Étudiante Ingénieure en Intelligence Artificielle | Junia ISEN Lille</h3>
+<h3 align="center"> Étudiante Ingénieure en Intelligence Artificielle | Junia ISEN Lille</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/himmich-maroua">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Compétences techniques
+##  Compétences techniques
 
 ### Langages de programmation
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
