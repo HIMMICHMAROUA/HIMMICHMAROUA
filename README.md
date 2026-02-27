@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B+I%27m+Maroua+Himmich" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=808080&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B+I%27m+Maroua+Himmich" alt="Typing SVG"/>
 </p>
 
 <h3 align="center">🎓 Étudiante Ingénieure en Intelligence Artificielle | Junia ISEN Lille</h3>
